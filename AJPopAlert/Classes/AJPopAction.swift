@@ -20,7 +20,7 @@ protocol AJPopActionProtocol  {
 
 open class AJPopAction : UIControl, AJPopActionProtocol {
     
-    var type: AJPopActionType! = .normal
-    var action: AJPopActionHandler?
+    open var type: AJPopActionType! = .normal
+    open var action: AJPopActionHandler?
     
 }
