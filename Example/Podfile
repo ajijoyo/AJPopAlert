@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'AJPopAlert_Example' do
+  pod 'AJPopAlert', :path => '../'
+  
+end

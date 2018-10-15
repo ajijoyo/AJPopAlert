@@ -1,0 +1,6 @@
+framework module Pods_AJPopAlert_Example {
+  umbrella header "Pods-AJPopAlert_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

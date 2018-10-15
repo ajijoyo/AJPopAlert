@@ -1,0 +1,6 @@
+framework module AJPopAlert {
+  umbrella header "AJPopAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}

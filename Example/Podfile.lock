@@ -1,0 +1,23 @@
+PODS:
+  - AJPopAlert (0.1.0):
+    - SnapKit (~> 4.0.0)
+  - SnapKit (4.0.1)
+
+DEPENDENCIES:
+  - AJPopAlert (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  AJPopAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AJPopAlert: 0843d33c97b965431068243025141c92531e9b5e
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+
+PODFILE CHECKSUM: 4dc2dcec58e82f382e903e6d74a966a165eeb0b2
+
+COCOAPODS: 1.5.3
