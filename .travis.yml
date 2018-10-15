@@ -5,8 +5,8 @@ language: objective-c
 # before_install:
 # - gem install cocoapods # Since Travis is not always on latest version
 # - pod install --project-directory=Example
-xcode_project: Example/AJCommonUtils.xcworkspace # path to your xcodeproj folder
-xcode_scheme: AJCommonUtils-Example
+xcode_project: Example/AJPopAlert.xcworkspace # path to your xcodeproj folder
+xcode_scheme: AJPopAlert-Example
 xcode_destination: platform=iOS Simulator,OS=12,name=iPhone X
 script:
-- xcodebuild -workspace Example/AJCommonUtils.xcworkspace -scheme AJCommonUtils-Example -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
+- xcodebuild -workspace Example/AJPopAlert.xcworkspace -scheme AJPopAlert-Example -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
