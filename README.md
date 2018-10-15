@@ -8,6 +8,7 @@
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
+![](https://github.com/ajijoyo/AJPopAlert/blob/master/images/Simulator1.png)
 
 ## Requirements
 ```
