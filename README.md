@@ -108,6 +108,9 @@ See in Wiki Tab for further information
 
 ajijoyo, self.ajiejoy@gmail.com
 
+## Note
+Feel free to pull request for adding new feature or fixing bugs.
+
 ## License
 
 AJPopAlert is available under the MIT license. See the LICENSE file for more info.
